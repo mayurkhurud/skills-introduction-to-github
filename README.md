@@ -61,7 +61,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 <footer>
 
-<!--
+<!--dssd
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
